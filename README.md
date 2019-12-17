@@ -21,6 +21,14 @@ docker run --rm \
   ernestoojeda/jenkins-settings:latest <optional filter>
 ```
 
+```text
+Output:
+settings-file-1
+settings-file-2
+settings-file-3
+settings-file-3
+```
+
 ## Usage with docker behind a proxy
 
 ```bash
